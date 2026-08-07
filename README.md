@@ -26,11 +26,11 @@ This project compares three machine learning regression models on the California
 
 ### Results
 
-| Model                    | RMSE       | R² Score   |
-|                          |            |            |
-| Linear Regression        | 0.7456     | 0.5758     |
-| Ridge Regression         | 0.7456     | 0.5758     |
-| Decision Tree Regression | **0.7030** | **0.6228** |
+| Model | RMSE | R² Score |
+|-------|------:|---------:|
+| Linear Regression | 0.7456 | 0.5758 |
+| Ridge Regression | 0.7456 | 0.5758 |
+| Decision Tree Regression | 0.7030 | 0.6228 |
 
 ### Best Model
 
